@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jacspavan
-- 👋 Founder & CEO of Amoxo India Pvt Ltd.
+- 👋 Hi, I’m Pavan Kumar
+- 👋 Co-Founder of Anviclick Technologies Pvt. Ltd.
 
 - 👀 I’m interested in Coding ...
 - 🌱 I’m currently learning ...
