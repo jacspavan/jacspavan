@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Pavan Kumar
 - 👋 Co-Founder of Anviclick Technologies Pvt. Ltd.
 
-- 👀 I’m interested in Coding ...
-- 🌱 I’m currently learning ...
+
 
 - 📫 How to reach me  https://www.linkedin.com/in/jacspavan/<br>
                       
