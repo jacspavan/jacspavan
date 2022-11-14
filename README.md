@@ -1,14 +1,14 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/f54D69Ktyra2d7nTOZ/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/jacspavan/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL](https://www.facebook.com/jacspavan/">
+  <a href="https://www.facebook.com/jacspavan/">
     <img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/jacspavan">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -18,13 +18,12 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- ♾️ Co-Founder of Anviclick Technologies.
+- :telescope: I’m  Currently working for Aashonline |  Web Development Company as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jacspavan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacspavan/)  [![Linkedin Badge](https://img.shields.io/badge/-Jacspavan-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/jacspavan/)
 
 ---
 
@@ -47,4 +46,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacspavan&theme=dark&background=000000)](https://git.io/streak-stats)
