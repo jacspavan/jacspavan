@@ -15,10 +15,27 @@
   <img src="https://komarev.com/ghpvc/?username=jacspavan&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 ---
 
 ### :man_technologist: About Me :
-- ♾️ Co-Founder of Anviclick Technologies.
+I'm a dedicated Software Engineer at AashOnline. What began as an enriching internship evolved into a full-time role, where I've been contributing my expertise for the past year and a half.
+
+During my internship phase, I delved into diverse projects in web development, spanning eCommerce and food delivery platforms. These experiences honed my skills and provided invaluable insights into crafting user-centric solutions.
+
+Currently, my focus revolves around spearheading projects involving custom products. I'm proud to be part of a team handling substantial traffic while maintaining a robust system, all powered by the versatile MERN stack. It's an exciting challenge that fuels my passion for innovation and scalable solutions.
+
+My academic journey led me through graduation at AKTU, where I cultivated the foundation for my technical prowess and problem-solving abilities.
+
+I'm enthusiastic about leveraging technology to create impactful solutions and keen to connect, collaborate, and explore new opportunities within the dynamic realm of software engineering.
+
+Let's connect and engage in discussions on the ever-evolving tech landscape!
+
+---
+
+### :man_technologist: Work Experience :
+- ♾️ Software Engineer | Building Tomorrow's Solutions.
+- :telescope: I’m  Currently working for Aashonline |  Web Development Company as a Software Engineer and contributing to frontend and backend for building web applications.
 - :telescope: I’m  Currently working for Aashonline |  Web Development Company as a Software Engineer and contributing to frontend and backend for building web applications.
 
 
